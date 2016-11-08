@@ -1,2 +1,2 @@
 # OOP-DT282-2
-Work for Object Orientated Programming module
+Work for Object Oriented Programming module
