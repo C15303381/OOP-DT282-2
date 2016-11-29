@@ -7,11 +7,7 @@ C15303381
 */
 /*
 29/11/16
-Couldn't get the square around the weapons to go away after another weapon had been
-selected. Also couldn't get the weapon names to dissapear after you're finished with
-the weapons tab.
-
-Unsure why but the arcs aren't decreasing. Don't know how to fix that.
+Couldn't get the weapons tab to stay down
 
 Had different file for weapons tab but it wasn't working so put it into this main 
 file to get it to work
@@ -19,6 +15,8 @@ file to get it to work
 Quite unhappy with this as most of the things won't work, starting again i would do
 something completely different
 */
+
+//EDIT realised background was in wrong place
 
 //declaring image for background
 PImage image;
@@ -30,7 +28,6 @@ void setup()
   halfH = height/2;
   image = loadImage("7jhQP5.jpg");
   image.resize(1200,700);
-  background(image);
 }
 
 int halfW, halfH;
@@ -57,6 +54,7 @@ boolean shotgun = false;
   
 void draw()
 {
+   background(image);
   
   //timer using frame count
   if(frameCount%30==0)
@@ -116,7 +114,6 @@ void draw()
   fill(200,0,0);
   rect((width/10)*9.5,(height/10)*6.3,50,10);
   rect((width/10)*9.67,(height/10)*6,10,50);
-  
   
   
   //setting up text for meters
