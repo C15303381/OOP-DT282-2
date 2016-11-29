@@ -1,4 +1,5 @@
 # OOP-DT282-2
 Work for Object Oriented Programming module
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grUWsvPknUI" frameborder="0" allowfullscreen></iframe>
+
+[![Video](http://img.youtube.com/vi/grUWsvPknUI/0.jpg)](http://www.youtube.com/watch?v=grUWsvPknUI)
