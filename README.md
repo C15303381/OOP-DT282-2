@@ -19,8 +19,11 @@ At time of submission this file wouldn't load the game due to a NullPointerExcep
 I was not able to fix this before I had to submit so I was unable to provide a video
 
 
+
+
+
 Assignment 3
 
 My Solar System model
 
-[![Video](https://youtu.be/P8G1HFuKQRw)]
+[![Video](https://youtu.be/P8G1HFuKQRw)](https://www.youtube.com/watch?v=P8G1HFuKQRw&feature=youtu.be)
