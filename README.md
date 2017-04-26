@@ -22,3 +22,5 @@ I was not able to fix this before I had to submit so I was unable to provide a v
 Assignment 3
 
 My Solar System model
+
+[![Video](https://youtu.be/P8G1HFuKQRw)]
