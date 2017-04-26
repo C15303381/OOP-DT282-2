@@ -26,4 +26,4 @@ Assignment 3
 
 My Solar System model
 
-[![Video](https://youtu.be/P8G1HFuKQRw)](https://www.youtube.com/watch?v=P8G1HFuKQRw&feature=youtu.be)
+(https://www.youtube.com/watch?v=P8G1HFuKQRw&feature=youtu.be)
