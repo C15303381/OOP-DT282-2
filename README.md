@@ -17,3 +17,8 @@ Assignment 2
 
 At time of submission this file wouldn't load the game due to a NullPointerException Error,
 I was not able to fix this before I had to submit so I was unable to provide a video
+
+
+Assignment 3
+
+My Solar System model
