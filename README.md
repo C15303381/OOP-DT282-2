@@ -22,8 +22,12 @@ I was not able to fix this before I had to submit so I was unable to provide a v
 
 
 
+
 Assignment 3
 
-My Solar System model
+- My Solar System model, the names of planets appear when you hover on them, there's background music
+- It works on eclipse, but i did the video in processing IDE because i was having trouble getting the video software to work(that's also why this is a little later than 4pm), language is processing
+- Just me
+- Probably all of it, it's the first time i felt i really knew what i was doing with a project
 
 [![Video](https://img.youtube.com/vi/P8G1HFuKQRw/0.jpg)](https://www.youtube.com/watch?v=P8G1HFuKQRw&feature=youtu.be)
